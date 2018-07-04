@@ -11,3 +11,5 @@ recipes.addShapeless(<primal:worktable_shelf>, [<minecraft:log>, <minecraft:log>
 
 //Remove primal_tech and primalcore recipes
 recipes.remove(<primal_tech:bone_pickaxe>);
+mods.primal.DryingRack.addNonRottingRecipe("hide_zombie", 2, <minecraft:rotten_flesh>, <primal:hide_dried>);
+
