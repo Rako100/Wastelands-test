@@ -1,0 +1,36 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: primal.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: vanilla.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 159ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:flint>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:flint>
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <primal_tech:bone_axe>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_sword>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_hoe>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_axe>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_pickaxe>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:stone_shovel>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:stone_axe>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:stone_pickaxe>
+[POSTINITIALIZATION][CLIENT][INFO] 1 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:flint>
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:flint>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bone Pickaxe with name ct_shapeless-1218262425
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bone Pickaxe with name ct_shaped1610881115
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for tile.worktable_shelf.name with name ct_shapeless-1566048995
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Flint with name ct_shapeless828254198
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bone Axe with name ct_shapeless713566666
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint with name ct_shaped-549947379
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
