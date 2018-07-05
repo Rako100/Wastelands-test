@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-07-05T19:37:44.02438Z",
+  "lastPlayed": "2018-07-05T20:52:43.8791113Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -28,10 +28,10 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 4096,
-  "guid": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+  "guid": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\tjfru\\OneDrive\\Documents\\Curse\\Minecraft\\Instances\\Wastelands-test\\",
-  "name": "Wastelands-test",
+  "installPath": "D:\\Minecraft\\Instances\\Wastelands test\\",
+  "name": "Wastelands test",
   "cachedScans": [
     {
       "folderName": "BetterQuesting-3.5.259.jar",
@@ -199,21 +199,6 @@
       "fileSize": 31143
     },
     {
-      "folderName": "CustomStartingGear-1.12-1.2.0.9-universal.jar",
-      "fingerprint": 1781565182,
-      "fileDateHash": 1190445608,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1781565182
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:01.9672712Z",
-      "lastWriteTimeUtc": "2018-06-25T00:15:52.2368071Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 23171
-    },
-    {
       "folderName": "Forgelin-1.7.4.jar",
       "fingerprint": 749853300,
       "fileDateHash": 3813981946,
@@ -379,6 +364,34 @@
       "fileSize": 394666
     },
     {
+      "folderName": "New Modded World 10",
+      "fingerprint": 0,
+      "fileDateHash": 2979533198,
+      "sectionID": 17,
+      "individualFingerprints": null,
+      "status": 5,
+      "timestamp": "2018-07-05T20:43:38.2022733Z",
+      "lastWriteTimeUtc": "2018-07-05T20:17:28.7661776Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 15,
+      "fileSize": 0
+    },
+    {
+      "folderName": "SelimsBackpacks-1.12.2-1.1.3.jar",
+      "fingerprint": 3507145482,
+      "fileDateHash": 1041938506,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3507145482
+      ],
+      "status": 1,
+      "timestamp": "2018-07-05T20:43:38.2002787Z",
+      "lastWriteTimeUtc": "2018-07-05T20:43:37.6936336Z",
+      "queryTimestamp": "2018-07-05T20:43:38.9083979Z",
+      "fileCount": 1,
+      "fileSize": 139375
+    },
+    {
       "folderName": "MTLib-3.0.5.jar",
       "fingerprint": 3707401081,
       "fileDateHash": 2336456035,
@@ -422,6 +435,21 @@
       "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
       "fileCount": 1,
       "fileSize": 342169
+    },
+    {
+      "folderName": "CustomStartingGear-1.12-1.2.0.9-universal.jar.disabled",
+      "fingerprint": 1781565182,
+      "fileDateHash": 1190445608,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1781565182
+      ],
+      "status": 1,
+      "timestamp": "2018-07-05T20:43:38.199282Z",
+      "lastWriteTimeUtc": "2018-06-25T00:15:52.2368071Z",
+      "queryTimestamp": "2018-07-05T20:43:38.9093954Z",
+      "fileCount": 1,
+      "fileSize": 23171
     },
     {
       "folderName": "ForgeCraft-1.4.06.jar",
@@ -545,7 +573,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2018-07-05T18:52:01.5682835Z",
+  "lastPreviousMatchUpdate": "2018-07-05T20:43:39.8010102Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -566,11 +594,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2018-07-05T20:27:00.2068391Z",
+  "installDate": "2018-06-24T23:16:13.2950727Z",
   "installedAddons": [
     {
       "addonID": 237662,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2515894,
         "fileName": "ezwastelands-1.12-1.3.1.jar",
@@ -640,7 +668,7 @@
     },
     {
       "addonID": 256895,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2455188,
         "fileName": "wasteland_meteors-1.12-0.2.jar",
@@ -701,7 +729,7 @@
     },
     {
       "addonID": 241140,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2499252,
         "fileName": "DefaultWorldGenerator-port-1.12-2.3.jar",
@@ -762,7 +790,7 @@
     },
     {
       "addonID": 32274,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2498312,
         "fileName": "journeymap-1.12.2-5.5.2",
@@ -842,7 +870,7 @@
     },
     {
       "addonID": 238222,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2571131,
         "fileName": "jei_1.12.2-4.10.0.198.jar",
@@ -897,7 +925,7 @@
     },
     {
       "addonID": 265917,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2491927,
         "fileName": "jeiintegration_1.12.2-1.5.1.36",
@@ -957,7 +985,7 @@
     },
     {
       "addonID": 244181,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2509046,
         "fileName": "blockdrops-1.12.2-1.4.0.jar",
@@ -1011,7 +1039,7 @@
     },
     {
       "addonID": 277663,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2479208,
         "fileName": "modelloader-1.0.5.jar",
@@ -1065,7 +1093,7 @@
     },
     {
       "addonID": 248453,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2573311,
         "fileName": "Forgelin-1.7.4.jar",
@@ -1132,7 +1160,7 @@
     },
     {
       "addonID": 224808,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2571506,
         "fileName": "Magneticraft 2.4.0 (1.12.2)",
@@ -1204,7 +1232,7 @@
     },
     {
       "addonID": 290612,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2567687,
         "fileName": "PrimalTech-0.3.3.jar",
@@ -1255,7 +1283,7 @@
     },
     {
       "addonID": 226013,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2535183,
         "fileName": "ForgeCraft-1.4.06",
@@ -1312,7 +1340,7 @@
     },
     {
       "addonID": 239197,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2576160,
         "fileName": "CraftTweaker2-1.12-4.1.9",
@@ -1373,7 +1401,7 @@
     },
     {
       "addonID": 253211,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2567171,
         "fileName": "MTLib-3.0.5",
@@ -1427,7 +1455,7 @@
     },
     {
       "addonID": 220954,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2558895,
         "fileName": "modtweaker-4.0.12",
@@ -1485,7 +1513,7 @@
     },
     {
       "addonID": 60089,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2462627,
         "fileName": "[1.12.1] Mouse Tweaks 2.8",
@@ -1541,7 +1569,7 @@
     },
     {
       "addonID": 227083,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2518667,
         "fileName": "Baubles-1.12-1.5.2.jar",
@@ -1604,7 +1632,7 @@
     },
     {
       "addonID": 225643,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2554929,
         "fileName": "Botania r1.10-354.jar",
@@ -1672,7 +1700,7 @@
     },
     {
       "addonID": 253735,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2514705,
         "fileName": "CustomStartingGear-1.12-1.2.0.9-universal.jar",
@@ -1709,7 +1737,7 @@
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1717,7 +1745,7 @@
     },
     {
       "addonID": 245211,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2569399,
         "fileName": "TheOneProbe - 1.12-1.4.23",
@@ -1785,7 +1813,7 @@
     },
     {
       "addonID": 284071,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2524304,
         "fileName": "BlockDropsTweaker-1.12.2-2.4.jar",
@@ -1840,7 +1868,7 @@
     },
     {
       "addonID": 272335,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2546515,
         "fileName": "cucumber-1.12-1.1.0.jar",
@@ -1897,7 +1925,7 @@
     },
     {
       "addonID": 238761,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2556526,
         "fileName": "pickletweaks-1.12-2.0.16.jar",
@@ -1955,7 +1983,7 @@
     },
     {
       "addonID": 238856,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2569946,
         "fileName": "BetterQuesting-3.5.259.jar",
@@ -2010,7 +2038,7 @@
     },
     {
       "addonID": 242106,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2539562,
         "fileName": "Better Questing - Quest Book 3.1.1-1.12",
@@ -2070,7 +2098,7 @@
     },
     {
       "addonID": 238857,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2566315,
         "fileName": "StandardExpansion-3.4.143.jar",
@@ -2125,7 +2153,7 @@
     },
     {
       "addonID": 247907,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2577569,
         "fileName": "PrimalCore-1.12.2-0.6.59.jar",
@@ -2214,7 +2242,7 @@
     },
     {
       "addonID": 242568,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2463480,
         "fileName": "ClayBucket-1.12-1.1.jar",
@@ -2271,7 +2299,7 @@
     },
     {
       "addonID": 263438,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2488533,
         "fileName": "Drones-0.3.0",
@@ -2324,7 +2352,7 @@
     },
     {
       "addonID": 255257,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2533126,
         "fileName": "LootTweaker-1.12.2-0.0.7.jar",
@@ -2384,7 +2412,7 @@
     },
     {
       "addonID": 288885,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2568496,
         "fileName": "FastWorkbench-1.12.2-1.5.0.jar",
@@ -2431,7 +2459,7 @@
     },
     {
       "addonID": 230976,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2463272,
         "fileName": "FastLeafDecay-v14.jar",
@@ -2483,7 +2511,7 @@
     },
     {
       "addonID": 223094,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2482481,
         "fileName": "Inventory Tweaks 1.63",
@@ -2550,7 +2578,7 @@
     },
     {
       "addonID": 253874,
-      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
       "installedFile": {
         "id": 2575372,
         "fileName": "Guidebook-1.12.2-2.6.5.jar",
@@ -2593,6 +2621,121 @@
       "dateInstalled": "2018-07-05T00:50:50.0974486Z",
       "dateUpdated": "2018-07-05T00:50:50.1014379Z",
       "dateLastUpdateAttempted": "2018-07-05T00:50:50.1014379Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 291485,
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "installedFile": {
+        "id": 2550267,
+        "fileName": "SelimsBackpacks-1.12.2-1.1.3.jar",
+        "fileNameOnDisk": "SelimsBackpacks-1.12.2-1.1.3.jar",
+        "fileDate": "2018-04-09T16:51:53.707",
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2550/267/SelimsBackpacks-1.12.2-1.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 245174,
+            "type": 2
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3149935708
+          },
+          {
+            "folderName": "selim",
+            "fimgerprint": 2259409924
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1658694796
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 4215292544
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 1149788153
+          }
+        ],
+        "packageFingerprint": 3507145482,
+        "gameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-07-05T20:43:39.7980184Z",
+      "dateUpdated": "2017-07-05T20:43:39.7980184Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 246996,
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "installedFile": {
+        "id": 2571522,
+        "fileName": "base-1.12.2-3.9.0.jar",
+        "fileNameOnDisk": "base-1.12.2-3.9.0.jar",
+        "fileDate": "2018-06-11T02:57:17.603",
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2571/522/base-1.12.2-3.9.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1051074453
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 2030020840
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 517476909
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2446710729
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3006473172
+          }
+        ],
+        "packageFingerprint": 1261398647,
+        "gameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-07-05T20:52:27.7574029Z",
+      "dateUpdated": "2018-07-05T20:52:27.7763515Z",
+      "dateLastUpdateAttempted": "2018-07-05T20:52:27.7763515Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

@@ -3,41 +3,19 @@
 [INITIALIZATION][CLIENT][INFO] Loading scripts
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: primal.zs}
 [INITIALIZATION][CLIENT][INFO] [PrimalCore] Adding Crafting Tweaker recipe for Drying Rack
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: primal_tech.zs}
+[INITIALIZATION][CLIENT][INFO] Primal Tech now loading
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: vanilla.zs}
-[INITIALIZATION][CLIENT][INFO] Setting fuel for <minecraft:coal>
-[INITIALIZATION][CLIENT][INFO] Setting fuel for <minecraft:coal:1>
+[INITIALIZATION][CLIENT][ERROR] vanilla.zs:26: Could not resolve << < < < < < HEAD < < < < < < < HEAD furnace . setFuel ( < minecraft : coal>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker | SIDE_CLIENT]: Error parsing vanilla.zs:30 -- ; expected
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: WasteLandsLootTable.zs}
-[INITIALIZATION][CLIENT][INFO] Adding pool psZombieLoot to table minecraft:entities/zombie
-[INITIALIZATION][CLIENT][INFO] Adding entry minecraft:wheat_seeds to pool psZombieLoot
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 203ms
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:flint>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:flint>
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <primal_tech:bone_axe>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_sword>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_hoe>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_axe>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:wooden_pickaxe>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:stone_shovel>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:stone_axe>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:stone_pickaxe>
-[POSTINITIALIZATION][CLIENT][INFO] 1 removed
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:flint>
-[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:flint>
-[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 181ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for tile.worktable_shelf.name with name ct_shapeless-1488423241
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bone Pickaxe with name ct_shapeless-1218262425
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bone Pickaxe with name ct_shaped1610881115
-[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for tile.worktable_shelf.name with name ct_shapeless-1566048995
-[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Flint with name ct_shapeless828254198
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bone Axe with name ct_shapeless713566666
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint with name ct_shaped-549947379
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chest with name ct_shaped354485990
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Plant Fibres with name ct_shapeless1732130639
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Flint with name ct_shapeless828254198
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chest with name ct_shaped765290610
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
