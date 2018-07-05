@@ -64,7 +64,21 @@ mods.jei.JEI.hide(<minecraft:diamond_axe>);
 mods.jei.JEI.hide(<minecraft:diamond_pickaxe>);
 <<<<<<< HEAD
 mods.jei.JEI.hide(<minecraft:diamond_shovel>);
+
+//Adjust furnace recipe
+recipes.remove(<minecraft:furnace>);
+recipes.addShaped(<minecraft:furnace>,
+    [[<minecraft:stone:0>,<minecraft:stone:0>,<minecraft:stone:0>],
+    [<minecraft:stone:0>, <primal_tech:charcoal_block>,<minecraft:stone:0>],
+    [<minecraft:stone:0>,<minecraft:stone:0>,<minecraft:stone:0>]]);
+
+//Disabling vanilla coal as fuel source in furnace
+furnace.setFuel(<minecraft:coal:*>, 0);
+=======
+<<<<<<< HEAD
+mods.jei.JEI.hide(<minecraft:diamond_shovel>);
 >>>>>>> fad9d0ce03e66f7d9cfc552866dd114734ee1b74
 =======
 mods.jei.JEI.hide(<minecraft:diamond_shovel>);
 >>>>>>> 7640ba25c7192d6dfe38f5c84b9ef72ff8ef84d4
+>>>>>>> d5b56dd735c073fa75c01ba6993eba518088ddc2

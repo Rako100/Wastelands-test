@@ -7,15 +7,49 @@
 [INITIALIZATION][CLIENT][INFO] Primal Tech now loading
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: vanilla.zs}
+<<<<<<< HEAD
 [INITIALIZATION][CLIENT][ERROR] vanilla.zs:26: Could not resolve << < < < < < HEAD < < < < < < < HEAD furnace . setFuel ( < minecraft : coal>
 [INITIALIZATION][CLIENT][ERROR] [crafttweaker | SIDE_CLIENT]: Error parsing vanilla.zs:30 -- ; expected
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: WasteLandsLootTable.zs}
 [INITIALIZATION][CLIENT][INFO] Completed script loading in: 181ms
+=======
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <minecraft:coal:*>
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: WasteLandsLootTable.zs}
+[INITIALIZATION][CLIENT][INFO] Adding pool psZombieLoot to table minecraft:entities/zombie
+[INITIALIZATION][CLIENT][INFO] Adding entry minecraft:wheat_seeds to pool psZombieLoot
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 521ms
+>>>>>>> d1186a9895c87e332a6815257b67c952b8a561bf
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for tile.worktable_shelf.name with name ct_shapeless-1488423241
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bone Pickaxe with name ct_shapeless-1218262425
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bone Pickaxe with name ct_shaped1610881115
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bone Axe with name ct_shapeless713566666
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Plant Fibres with name ct_shapeless1732130639
+<<<<<<< HEAD
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Flint with name ct_shapeless828254198
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chest with name ct_shaped765290610
+=======
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fair Grade Charcoal with name ct_shapeless-299475064
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Flint with name ct_shapeless828254198
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chest with name ct_shaped765290610
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Furnace with name ct_shaped-1249274781
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_shovel>
+>>>>>>> d1186a9895c87e332a6815257b67c952b8a561bf
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
