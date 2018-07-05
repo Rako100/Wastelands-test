@@ -1,0 +1,155 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  ForgelinPlugin (Forgelin-1.7.4.jar)
+Contact their authors BEFORE contacting forge
+
+// Why is it breaking :(
+
+Time: 7/4/18 8:46 PM
+Description: Rendering screen
+
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+	at java.util.ArrayList.get(ArrayList.java:433)
+	at gigaherz.guidebook.guidebook.client.BookRendering.mouseHover(BookRendering.java:392)
+	at gigaherz.guidebook.guidebook.client.GuiGuidebook.func_73863_a(GuiGuidebook.java:253)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:368)
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1117)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+	at java.util.ArrayList.get(ArrayList.java:433)
+	at gigaherz.guidebook.guidebook.client.BookRendering.mouseHover(BookRendering.java:392)
+	at gigaherz.guidebook.guidebook.client.GuiGuidebook.func_73863_a(GuiGuidebook.java:253)
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:368)
+
+-- Screen render details --
+Details:
+	Screen name: gigaherz.guidebook.guidebook.client.GuiGuidebook
+	Mouse location: Scaled: (346, 210). Absolute: (1385, 179)
+	Screen size: Scaled: (480, 255). Absolute: (1920, 1017). Scale factor of 4
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['Rako100'/71, l='MpServer', x=234.29, y=74.75, z=-565.40]]
+	Chunk stats: MultiplayerChunkCache: 625, 625
+	Level seed: 0
+	Level generator: ID 06 - ezwastelands, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (235,50,-488), Chunk: (at 11,3,8 in 14,-31; contains blocks 224,0,-496 to 239,255,-481), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 197577 game time, 26139 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 80 total; [EntityItem['item.item.arrow'/122633, l='MpServer', x=241.14, y=63.00, z=-589.29], EntityDrone['Drone'/167946, l='MpServer', x=212.50, y=63.00, z=-575.50], EntityItem['item.item.bone'/122634, l='MpServer', x=242.75, y=62.00, z=-589.38], EntityDrone['Drone'/147721, l='MpServer', x=217.50, y=65.00, z=-637.50], EntityDrone['Drone'/129293, l='MpServer', x=348.50, y=68.00, z=-556.50], EntityDrone['Drone'/139281, l='MpServer', x=217.18, y=63.30, z=-575.55], EntityItem['item.item.arrow'/122903, l='MpServer', x=290.17, y=65.00, z=-558.36], EntityDrone['Drone'/129815, l='MpServer', x=250.50, y=71.00, z=-669.50], EntityDrone['Drone'/162964, l='MpServer', x=334.50, y=68.00, z=-602.50], EntityItem['item.item.bone'/122904, l='MpServer', x=290.48, y=65.00, z=-557.72], EntityDrone['Drone'/143896, l='MpServer', x=166.50, y=70.00, z=-602.50], EntityDrone['Drone'/148376, l='MpServer', x=305.50, y=68.00, z=-547.50], EntityDrone['Drone'/156441, l='MpServer', x=328.50, y=70.00, z=-513.50], EntityDrone['Drone'/147998, l='MpServer', x=141.50, y=71.00, z=-559.50], EntityDrone['Drone'/162591, l='MpServer', x=260.50, y=68.00, z=-521.50], EntityDrone['Drone'/167583, l='MpServer', x=317.50, y=70.00, z=-512.50], EntityDrone['Drone'/157091, l='MpServer', x=216.50, y=63.00, z=-550.50], EntityDrone['Drone'/133280, l='MpServer', x=124.50, y=58.00, z=-532.50], EntityDrone['Drone'/162592, l='MpServer', x=148.50, y=72.00, z=-556.50], EntityDrone['Drone'/137767, l='MpServer', x=299.50, y=69.00, z=-592.50], EntityDrone['Drone'/153898, l='MpServer', x=136.50, y=66.00, z=-510.50], EntityDrone['Drone'/146985, l='MpServer', x=183.50, y=62.00, z=-491.50], EntityDrone['Drone'/153004, l='MpServer', x=278.50, y=68.00, z=-670.50], EntityDrone['Drone'/168493, l='MpServer', x=167.50, y=68.00, z=-577.50], EntityDrone['Drone'/160306, l='MpServer', x=210.67, y=66.00, z=-475.51], EntityDrone['Drone'/148144, l='MpServer', x=255.50, y=71.00, z=-599.50], EntityDrone['Drone'/152886, l='MpServer', x=261.50, y=68.00, z=-616.50], EntityDrone['Drone'/165684, l='MpServer', x=283.50, y=68.00, z=-671.50], EntityDrone['Drone'/152635, l='MpServer', x=261.50, y=72.00, z=-480.50], EntityDrone['Drone'/158907, l='MpServer', x=277.50, y=69.00, z=-452.50], EntityDrone['Drone'/146498, l='MpServer', x=151.50, y=70.00, z=-591.50], EntityDrone['Drone'/164800, l='MpServer', x=244.80, y=62.00, z=-540.52], EntityDrone['Drone'/126530, l='MpServer', x=261.50, y=73.00, z=-475.50], EntityItem['item.item.bone'/120645, l='MpServer', x=250.92, y=66.00, z=-528.05], EntityDrone['Drone'/147782, l='MpServer', x=178.50, y=67.00, z=-611.50], EntityDrone['Drone'/155718, l='MpServer', x=240.50, y=69.00, z=-650.50], EntityItem['item.item.arrow'/120644, l='MpServer', x=251.62, y=66.00, z=-528.92], EntityDrone['Drone'/161477, l='MpServer', x=333.50, y=70.00, z=-598.50], EntityDrone['Drone'/141003, l='MpServer', x=242.50, y=70.00, z=-469.50], EntityDrone['Drone'/145992, l='MpServer', x=215.50, y=65.00, z=-469.50], EntityDrone['Drone'/162892, l='MpServer', x=144.50, y=69.00, z=-489.50], EntityDrone['Drone'/165196, l='MpServer', x=312.50, y=67.00, z=-635.50], EntityDrone['Drone'/166221, l='MpServer', x=155.50, y=67.00, z=-544.50], EntityDrone['Drone'/159186, l='MpServer', x=173.50, y=65.00, z=-476.50], EntityDrone['Drone'/156371, l='MpServer', x=267.50, y=67.00, z=-585.50], EntityDrone['Drone'/159059, l='MpServer', x=263.87, y=69.00, z=-611.50], EntityDrone['Drone'/163792, l='MpServer', x=161.50, y=70.00, z=-613.50], EntityDrone['Drone'/166480, l='MpServer', x=158.50, y=70.00, z=-634.50], EntityDrone['Drone'/130386, l='MpServer', x=243.50, y=69.00, z=-523.50], EntityPlayerSP['Rako100'/71, l='MpServer', x=234.29, y=74.75, z=-565.40], EntityDrone['Drone'/148694, l='MpServer', x=314.50, y=69.00, z=-523.50], EntityItem['item.item.rottenFlesh'/122708, l='MpServer', x=227.93, y=65.00, z=-590.14], EntityDrone['Drone'/153687, l='MpServer', x=209.50, y=63.00, z=-645.50], EntityDrone['Drone'/162007, l='MpServer', x=287.50, y=69.00, z=-661.50], EntityDrone['Drone'/162519, l='MpServer', x=191.50, y=63.00, z=-664.50], EntityDrone['Drone'/164437, l='MpServer', x=343.50, y=60.00, z=-626.50], EntityDrone['Drone'/157151, l='MpServer', x=160.50, y=74.00, z=-593.50], EntityDrone['Drone'/128480, l='MpServer', x=339.50, y=67.00, z=-615.50], EntityDrone['Drone'/152166, l='MpServer', x=238.50, y=73.00, z=-454.50], EntityDrone['Drone'/166759, l='MpServer', x=284.50, y=68.00, z=-537.50], EntityDrone['Drone'/128231, l='MpServer', x=178.50, y=70.00, z=-634.50], EntityDrone['Drone'/163178, l='MpServer', x=288.50, y=68.00, z=-477.50], EntityDrone['Drone'/161003, l='MpServer', x=287.50, y=71.00, z=-499.50], EntityDrone['Drone'/164328, l='MpServer', x=245.50, y=67.00, z=-604.50], EntityDrone['Drone'/167400, l='MpServer', x=216.25, y=64.01, z=-675.05], EntityDrone['Drone'/135401, l='MpServer', x=187.50, y=63.00, z=-531.50], EntityDrone['Drone'/159721, l='MpServer', x=241.50, y=70.00, z=-681.50], EntityDrone['Drone'/168041, l='MpServer', x=117.50, y=71.00, z=-607.50], EntityDrone['Drone'/160622, l='MpServer', x=304.50, y=71.00, z=-499.50], EntityDrone['Drone'/163182, l='MpServer', x=139.50, y=67.00, z=-499.50], EntityDrone['Drone'/160751, l='MpServer', x=131.50, y=71.00, z=-607.50], EntityDrone['Drone'/158317, l='MpServer', x=297.50, y=69.00, z=-626.50], EntityDrone['Drone'/150259, l='MpServer', x=145.50, y=73.00, z=-639.50], EntityDrone['Drone'/161907, l='MpServer', x=176.50, y=67.00, z=-568.50], EntityDrone['Drone'/154231, l='MpServer', x=291.50, y=69.00, z=-531.50], EntityDrone['Drone'/158837, l='MpServer', x=307.50, y=63.00, z=-623.50], EntityDrone['Drone'/167035, l='MpServer', x=153.50, y=70.00, z=-577.50], EntityItem['item.item.rottenFlesh'/125050, l='MpServer', x=211.41, y=66.00, z=-626.88], EntityDrone['Drone'/159486, l='MpServer', x=140.50, y=66.00, z=-512.50], EntityDrone['Drone'/155773, l='MpServer', x=286.50, y=68.00, z=-657.50]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.func_72914_a(WorldClient.java:420)
+	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2738)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:418)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_151, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 4979229360 bytes (4748 MB) / 8589934592 bytes (8192 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 12 total; -Xmx4096m -Xms256m -XX:PermSize=256m -XX:+UseG1GC -Xmx8192m -Xms8192m -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	FML: MCP 9.42 Powered by Forge 14.23.4.2712 40 mods loaded, 40 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID                         | Version                  | Source                                        | Signature                                |
+	|:--------- |:-------------------------- |:------------------------ |:--------------------------------------------- |:---------------------------------------- |
+	| UCHIJAAAA | minecraft                  | 1.12.2                   | minecraft.jar                                 | None                                     |
+	| UCHIJAAAA | mcp                        | 9.42                     | minecraft.jar                                 | None                                     |
+	| UCHIJAAAA | FML                        | 8.0.99.99                | forge-1.12.2-14.23.4.2712.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAAA | forge                      | 14.23.4.2712             | forge-1.12.2-14.23.4.2712.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAAA | baubles                    | 1.5.2                    | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| UCHIJAAAA | betterquesting             | 3.5.259                  | BetterQuesting-3.5.259.jar                    | None                                     |
+	| UCHIJAAAA | crafttweaker               | 4.1.9                    | CraftTweaker2-1.12-4.1.9.jar                  | None                                     |
+	| UCHIJAAAA | mtlib                      | 3.0.5                    | MTLib-3.0.5.jar                               | None                                     |
+	| UCHIJAAAA | modtweaker                 | 4.0.12                   | modtweaker-4.0.12.jar                         | None                                     |
+	| UCHIJAAAA | jei                        | 4.10.0.198               | jei_1.12.2-4.10.0.198.jar                     | None                                     |
+	| UCHIJAAAA | blockdrops                 | 1.4.0                    | blockdrops-1.12.2-1.4.0.jar                   | None                                     |
+	| UCHIJAAAA | blockdropstweaker          | 2.4                      | BlockDropsTweaker-1.12.2-2.4.jar              | None                                     |
+	| UCHIJAAAA | botania                    | r1.10-354                | Botania r1.10-354.jar                         | None                                     |
+	| UCHIJAAAA | claybucket                 | 1.1                      | ClayBucket-1.12-1.1.jar                       | None                                     |
+	| UCHIJAAAA | ctgui                      | 1.0.0                    | CraftTweaker2-1.12-4.1.9.jar                  | None                                     |
+	| UCHIJAAAA | crafttweakerjei            | 2.0.2                    | CraftTweaker2-1.12-4.1.9.jar                  | None                                     |
+	| UCHIJAAAA | cucumber                   | 1.1.0                    | cucumber-1.12-1.1.0.jar                       | None                                     |
+	| UCHIJAAAA | customstartinggear         | 1.2.0                    | CustomStartingGear-1.12-1.2.0.9-universal.jar | None                                     |
+	| UCHIJAAAA | defaultworldgenerator-port | 1.12-2.3                 | DefaultWorldGenerator-port-1.12-2.3.jar       | None                                     |
+	| UCHIJAAAA | drones                     | 0.3.0                    | Drones-0.3.0.jar                              | None                                     |
+	| UCHIJAAAA | ezwastelands               | 1.12-1.3.1               | ezwastelands-1.12-1.3.1.jar                   | None                                     |
+	| UCHIJAAAA | fastleafdecay              | v14                      | FastLeafDecay-v14.jar                         | None                                     |
+	| UCHIJAAAA | fastbench                  | 1.5.0                    | FastWorkbench-1.12.2-1.5.0.jar                | None                                     |
+	| UCHIJAAAA | primal                     | 0.6.59                   | PrimalCore-1.12.2-0.6.59.jar                  | 67a0e286dc0d4b502f3c92ac20b953517b52d0a9 |
+	| UCHIJAAAA | forgecraft                 | 1.4.06                   | ForgeCraft-1.4.06.jar                         | None                                     |
+	| UCHIJAAAA | forgelin                   | 1.7.4                    | Forgelin-1.7.4.jar                            | None                                     |
+	| UCHIJAAAA | inventorytweaks            | 1.63+release.109.220f184 | InventoryTweaks-1.63.jar                      | 55d2cd4f5f0961410bf7b91ef6c6bf00a766dcbe |
+	| UCHIJAAAA | jeiintegration             | 1.5.1.36                 | jeiintegration_1.12.2-1.5.1.36.jar            | None                                     |
+	| UCHIJAAAA | journeymap                 | 1.12.2-5.5.2             | journeymap-1.12.2-5.5.2.jar                   | None                                     |
+	| UCHIJAAAA | loottweaker                | 0.0.7                    | LootTweaker-1.12.2-0.0.7.jar                  | None                                     |
+	| UCHIJAAAA | modelloader                | 1.0.5                    | modelloader-1.0.5.jar                         | None                                     |
+	| UCHIJAAAA | magneticraft               | 2.4.0                    | Magneticraft_1.12-2.4.0-dev.jar               | None                                     |
+	| UCHIJAAAA | mousetweaks                | 2.8                      | MouseTweaks-2.8-mc1.12.1.jar                  | None                                     |
+	| UCHIJAAAA | pickletweaks               | 2.0.16                   | pickletweaks-1.12-2.0.16.jar                  | None                                     |
+	| UCHIJAAAA | questbook                  | 3.1.1-1.12               | questbook-3.1.1-1.12.jar                      | None                                     |
+	| UCHIJAAAA | bq_standard                | 3.4.143                  | StandardExpansion-3.4.143.jar                 | None                                     |
+	| UCHIJAAAA | theoneprobe                | 1.4.23                   | theoneprobe-1.12-1.4.23.jar                   | None                                     |
+	| UCHIJAAAA | wasteland_meteors          | 1.12-0.2                 | wasteland_meteors-1.12-0.2.jar                | None                                     |
+	| UCHIJAAAA | gbook                      | 2.6.5                    | Guidebook-1.12.2-2.6.5.jar                    | None                                     |
+	| UCHIJAAAA | primal_tech                | 0.3.3                    | PrimalTech-0.3.3.jar                          | None                                     |
+
+	Loaded coremods (and transformers): 
+Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  invtweaks.forge.asm.ContainerTransformer
+ForgelinPlugin (Forgelin-1.7.4.jar)
+  
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 391.35' Renderer: 'GeForce GTX 970/PCIe/SSE2'
+	Launched Version: forge-14.23.4.2712
+	LWJGL: 2.9.4
+	OpenGL: GeForce GTX 970/PCIe/SSE2 GL version 4.6.0 NVIDIA 391.35, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz

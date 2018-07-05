@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-07-04T20:46:49.0133695Z",
+  "lastPlayed": "2018-07-05T01:59:58.530514Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -33,6 +33,21 @@
   "installPath": "D:\\Minecraft\\Instances\\Wastelands test\\",
   "name": "Wastelands test",
   "cachedScans": [
+    {
+      "folderName": "LootTweaker-1.12.2-0.0.7.jar",
+      "fingerprint": 802723705,
+      "fileDateHash": 4282449108,
+      "sectionID": 6,
+      "individualFingerprints": [
+        802723705
+      ],
+      "status": 1,
+      "timestamp": "2018-07-04T23:28:03.6723251Z",
+      "lastWriteTimeUtc": "2018-07-04T23:28:03.1731417Z",
+      "queryTimestamp": "2018-07-04T23:28:04.2826927Z",
+      "fileCount": 1,
+      "fileSize": 61486
+    },
     {
       "folderName": "Magneticraft_1.12-2.4.0-dev.jar",
       "fingerprint": 594295627,
@@ -259,6 +274,21 @@
       "fileSize": 394666
     },
     {
+      "folderName": "Guidebook-1.12.2-2.6.5.jar",
+      "fingerprint": 4050478481,
+      "fileDateHash": 799076558,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4050478481
+      ],
+      "status": 1,
+      "timestamp": "2018-07-05T00:50:59.7067457Z",
+      "lastWriteTimeUtc": "2018-07-05T00:50:50.0974486Z",
+      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
+      "fileCount": 1,
+      "fileSize": 216272
+    },
+    {
       "folderName": "PrimalCore-1.12.2-0.6.59.jar",
       "fingerprint": 2593024648,
       "fileDateHash": 2423423199,
@@ -290,13 +320,14 @@
     },
     {
       "folderName": "New Modded World 6",
-      "fingerprint": 3256507260,
-      "fileDateHash": 3636473151,
+      "fingerprint": 364882655,
+      "fileDateHash": 1988457457,
       "sectionID": 17,
       "individualFingerprints": [
+        301620541,
         379521350,
         392098620,
-        460668389,
+        436540347,
         489458212,
         489458212,
         493877642,
@@ -304,36 +335,36 @@
         758054953,
         758054953,
         776960864,
-        851569610,
         989848178,
-        1177525885,
         1254400901,
         1369942744,
-        1689780500,
-        1724379969,
         1750796646,
-        1793554856,
         2051039522,
-        2201622994,
+        2087386609,
+        2293670810,
+        2615317546,
         2864539105,
-        2939580635,
+        2900261546,
         3028428630,
         3132291427,
-        3493021221,
+        3343374978,
+        3466388506,
+        3638818350,
         3687400271,
         3728572057,
         3855666334,
-        4189811011,
+        3948813058,
         4213863462,
         4213863462,
         4213863462,
         4213863462,
+        4255116830,
         4277107657
       ],
       "status": 1,
-      "timestamp": "2018-07-02T04:02:45.9489136Z",
-      "lastWriteTimeUtc": "2018-07-02T00:39:21.5580571Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "timestamp": "2018-07-05T00:50:59.7087408Z",
+      "lastWriteTimeUtc": "2018-07-05T00:44:45.1654949Z",
+      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
       "fileCount": 15,
       "fileSize": 0
     },
@@ -366,6 +397,21 @@
       "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
       "fileCount": 1,
       "fileSize": 1822850
+    },
+    {
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 1300541637,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4009982705
+      ],
+      "status": 1,
+      "timestamp": "2018-07-05T00:50:59.7077431Z",
+      "lastWriteTimeUtc": "2018-07-05T00:44:42.9149649Z",
+      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
+      "fileCount": 1,
+      "fileSize": 263258
     },
     {
       "folderName": "Forgelin-1.7.4.jar",
@@ -503,6 +549,21 @@
       "fileSize": 103120
     },
     {
+      "folderName": "FastWorkbench-1.12.2-1.5.0.jar",
+      "fingerprint": 3175123340,
+      "fileDateHash": 3768400087,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3175123340
+      ],
+      "status": 1,
+      "timestamp": "2018-07-04T23:28:03.6723251Z",
+      "lastWriteTimeUtc": "2018-07-04T23:28:03.1721442Z",
+      "queryTimestamp": "2018-07-04T23:28:04.2836902Z",
+      "fileCount": 1,
+      "fileSize": 24450
+    },
+    {
       "folderName": "PrimalTech-0.3.3.jar",
       "fingerprint": 1417559117,
       "fileDateHash": 2059487830,
@@ -516,10 +577,25 @@
       "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
       "fileCount": 1,
       "fileSize": 464312
+    },
+    {
+      "folderName": "FastLeafDecay-v14.jar",
+      "fingerprint": 1940914729,
+      "fileDateHash": 1066892870,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1940914729
+      ],
+      "status": 1,
+      "timestamp": "2018-07-04T23:28:03.6723251Z",
+      "lastWriteTimeUtc": "2018-07-04T23:28:03.1711471Z",
+      "queryTimestamp": "2018-07-04T23:28:04.2836902Z",
+      "fileCount": 1,
+      "fileSize": 5200
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2018-07-04T20:46:23.3485376Z",
+  "lastPreviousMatchUpdate": "2018-07-05T00:51:00.4846659Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2287,6 +2363,287 @@
       "dateUpdated": "2018-07-02T01:57:34.8580455Z",
       "dateLastUpdateAttempted": "2018-07-02T01:57:34.8580455Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 255257,
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "installedFile": {
+        "id": 2533126,
+        "fileName": "LootTweaker-1.12.2-0.0.7.jar",
+        "fileNameOnDisk": "LootTweaker-1.12.2-0.0.7.jar",
+        "fileDate": "2018-02-20T05:16:42.707",
+        "releaseType": 2,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2533/126/LootTweaker-1.12.2-0.0.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 239197,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3204608732
+          },
+          {
+            "folderName": "leviathan143",
+            "fimgerprint": 1072087134
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 729443082
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2513590839
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 1353275925
+          }
+        ],
+        "packageFingerprint": 802723705,
+        "gameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-07-04T23:28:05.0686235Z",
+      "dateUpdated": "2017-07-04T23:28:05.0686235Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 288885,
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "installedFile": {
+        "id": 2568496,
+        "fileName": "FastWorkbench-1.12.2-1.5.0.jar",
+        "fileNameOnDisk": "FastWorkbench-1.12.2-1.5.0.jar",
+        "fileDate": "2018-06-02T07:38:20.803",
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2568/496/FastWorkbench-1.12.2-1.5.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1833968593
+          },
+          {
+            "folderName": "shadows",
+            "fimgerprint": 1312022921
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 700098509
+          }
+        ],
+        "packageFingerprint": 3175123340,
+        "gameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-07-04T23:28:05.0686235Z",
+      "dateUpdated": "2017-07-04T23:28:05.0686235Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 230976,
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "installedFile": {
+        "id": 2463272,
+        "fileName": "FastLeafDecay-v14.jar",
+        "fileNameOnDisk": "FastLeafDecay-v14.jar",
+        "fileDate": "2017-08-11T18:57:44.643",
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2463/272/FastLeafDecay-v14.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          },
+          {
+            "folderName": "net",
+            "fimgerprint": 1898342243
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3125410211
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 1940914729,
+        "gameVersion": [
+          "1.12.2",
+          "1.12.1"
+        ]
+      },
+      "dateInstalled": "2018-07-04T23:28:05.0686235Z",
+      "dateUpdated": "2017-07-04T23:28:05.0686235Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 223094,
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "installedFile": {
+        "id": 2482481,
+        "fileName": "Inventory Tweaks 1.63",
+        "fileNameOnDisk": "InventoryTweaks-1.63.jar",
+        "fileDate": "2017-09-21T13:56:21.667",
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2482/481/InventoryTweaks-1.63.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2582511254
+          },
+          {
+            "folderName": "invtweaks",
+            "fimgerprint": 1860114678
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2394590757
+          },
+          {
+            "folderName": "invtweaks.png",
+            "fimgerprint": 1558494413
+          },
+          {
+            "folderName": "invtweaks_at.cfg",
+            "fimgerprint": 180667226
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2739388718
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 934435428
+          },
+          {
+            "folderName": "version.properties",
+            "fimgerprint": 921205253
+          }
+        ],
+        "packageFingerprint": 4009982705,
+        "gameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-07-05T00:44:42.9159614Z",
+      "dateUpdated": "2018-07-05T00:44:42.9189537Z",
+      "dateLastUpdateAttempted": "2018-07-05T00:44:42.9189537Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 253874,
+      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "installedFile": {
+        "id": 2575372,
+        "fileName": "Guidebook-1.12.2-2.6.5.jar",
+        "fileNameOnDisk": "Guidebook-1.12.2-2.6.5.jar",
+        "fileDate": "2018-06-22T17:27:23.097",
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2575/372/Guidebook-1.12.2-2.6.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1443523999
+          },
+          {
+            "folderName": "gigaherz",
+            "fimgerprint": 1631219467
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1406170049
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1955666428
+          }
+        ],
+        "packageFingerprint": 4050478481,
+        "gameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-07-05T00:50:50.0974486Z",
+      "dateUpdated": "2018-07-05T00:50:50.1014379Z",
+      "dateLastUpdateAttempted": "2018-07-05T00:50:50.1014379Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

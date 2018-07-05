@@ -1,7 +1,7 @@
-[13:47:39] [main/INFO] [JMLogger] JourneyMap log initialized.
-[13:47:39] [main/INFO] [JourneymapClient] initialize ENTER
-[13:47:39] [main/ERROR] [JMLogger] Default theme not found in D:\Minecraft\Instances\Wastelands test\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
-[13:47:40] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.2, built with Forge 14.23.0.2491
+[20:47:29] [main/INFO] [JMLogger] JourneyMap log initialized.
+[20:47:29] [main/INFO] [JourneymapClient] initialize ENTER
+[20:47:29] [main/ERROR] [JMLogger] Default theme not found in D:\Minecraft\Instances\Wastelands test\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[20:47:29] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.2, built with Forge 14.23.0.2491
 Forge: 14.23.4.2712
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -18,25 +18,25 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.2, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.2, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.2, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[13:47:40] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[13:47:40] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[13:47:40] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[13:47:40] [main/DEBUG] [JourneymapClient] postInitialize ENTER
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
-[13:47:40] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
-[13:47:40] [main/ERROR] [FileHandler] Couldn't locate icons for Default: D:\Minecraft\Instances\Wastelands%20test\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\icon\entity
-[13:47:40] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[13:47:40] [main/TRACE] [ThemeLoader] Initializing themes ...
-[13:47:40] [main/ERROR] [FileHandler] Couldn't locate icons for flat: D:\Minecraft\Instances\Wastelands%20test\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\theme\flat
-[13:47:40] [main/INFO] [ThemeLoader] Preloaded theme textures: 0
-[13:47:40] [main/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r239.32§8ms§r
-[13:47:41] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[20:47:29] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[20:47:29] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[20:47:29] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[20:47:29] [main/DEBUG] [JourneymapClient] postInitialize ENTER
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[20:47:29] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[20:47:29] [main/ERROR] [FileHandler] Couldn't locate icons for Default: D:\Minecraft\Instances\Wastelands%20test\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\icon\entity
+[20:47:29] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[20:47:29] [main/TRACE] [ThemeLoader] Initializing themes ...
+[20:47:29] [main/ERROR] [FileHandler] Couldn't locate icons for flat: D:\Minecraft\Instances\Wastelands%20test\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\theme\flat
+[20:47:29] [main/INFO] [ThemeLoader] Preloaded theme textures: 0
+[20:47:29] [main/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r192.29§8ms§r
+[20:47:29] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -53,7 +53,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[13:48:32] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[20:51:59] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -61,7 +61,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
 	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_335_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_352_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
 	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
@@ -85,10 +85,10 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[13:48:32] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[20:51:59] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_335_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_352_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
 	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
@@ -97,7 +97,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
-[13:48:32] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[20:51:59] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
@@ -105,7 +105,7 @@ java.lang.NullPointerException: null
 	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
 	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_335_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_352_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
 	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
@@ -129,10 +129,10 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
 	... 15 more
 
-[13:48:32] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[20:51:59] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException: null
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_335_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_352_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
 	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
@@ -141,8 +141,10 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
-[13:48:35] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
-[13:48:35] [main/INFO] [WaypointStore] Loaded 0 waypoints from D:\Minecraft\Instances\Wastelands test\journeymap\data\sp\New Modded World 6\waypoints
-[13:48:35] [main/INFO] [JourneymapClient] Mapping started in D:\Minecraft\Instances\Wastelands test\journeymap\data\sp\New Modded World 6\DIM0. Memory: 8192MB total, 7066MB free 
-[13:48:35] [main/INFO] [ChatLog] JourneyMap: Press [J]
-[14:01:57] [main/WARN] [TextureCache] Image not found: journeymap:ui/img/marker-icon-arrow-16.png
+[20:52:02] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[20:52:02] [main/INFO] [WaypointStore] Loaded 0 waypoints from D:\Minecraft\Instances\Wastelands test\journeymap\data\sp\New Modded World 6\waypoints
+[20:52:02] [main/INFO] [JourneymapClient] Mapping started in D:\Minecraft\Instances\Wastelands test\journeymap\data\sp\New Modded World 6\DIM0. Memory: 8192MB total, 7095MB free 
+[20:52:02] [main/INFO] [ChatLog] JourneyMap: Press [J]
+[20:52:24] [main/WARN] [TextureCache] Image not found: journeymap:ui/img/marker-icon-arrow-16.png
+[20:52:24] [main/WARN] [TextureCache] Image not found: drones:textures/entity_icon/drone_texture.png
+[21:38:48] [main/INFO] [JourneymapClient] Mapping halted in D:\Minecraft\Instances\Wastelands test\journeymap\data\sp\New Modded World 6\DIM0

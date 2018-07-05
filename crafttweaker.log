@@ -2,9 +2,13 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Loading scripts
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: primal.zs}
+[INITIALIZATION][CLIENT][INFO] [PrimalCore] Adding Crafting Tweaker recipe for Drying Rack
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: vanilla.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 159ms
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: WasteLandsLootTable.zs}
+[INITIALIZATION][CLIENT][INFO] Adding pool psZombieLoot to table minecraft:entities/zombie
+[INITIALIZATION][CLIENT][INFO] Adding entry minecraft:wheat_seeds to pool psZombieLoot
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 197ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:flint>
 [POSTINITIALIZATION][CLIENT][INFO] 0 removed
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:flint>
@@ -33,4 +37,5 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Flint with name ct_shapeless828254198
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bone Axe with name ct_shapeless713566666
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint with name ct_shaped-549947379
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chest with name ct_shaped354485990
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

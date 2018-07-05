@@ -7,6 +7,7 @@ recipes.removeShaped(<minecraft:wooden_sword>, [[null, <minecraft:planks>, null]
 recipes.removeShaped(<minecraft:wooden_hoe>, [[<minecraft:planks>, <minecraft:planks>, null],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
 recipes.removeShaped(<minecraft:wooden_axe>, [[<minecraft:planks>, <minecraft:planks>, null],[<minecraft:planks>, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
 recipes.removeShaped(<minecraft:wooden_pickaxe>, [[<minecraft:planks>, <minecraft:planks>, <minecraft:planks>],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
+recipes.remove(<minecraft:chest>);
 
 
 //Remove stone tools recipes
@@ -15,3 +16,9 @@ recipes.removeShaped(<minecraft:stone_axe>, [[<minecraft:cobblestone>, <minecraf
 recipes.removeShaped(<minecraft:stone_pickaxe>, [[<minecraft:cobblestone>, <minecraft:cobblestone>, <minecraft:cobblestone>],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
 recipes.removeShapeless(<minecraft:flint>, [ <minecraft:gravel>, <minecraft:gravel>]);
 recipes.removeShaped(<minecraft:flint>, [[null, <minecraft:gravel>, null],[<minecraft:gravel>, null, null], [null, null, null]]);
+
+
+//add vanilla recipes
+//chest
+recipes.addShaped(<minecraft:chest>, [[<minecraft:planks>, <minecraft:planks>, <minecraft:planks>], [<minecraft:planks>, <minecraft:iron_ingot>, <minecraft:planks>], [<minecraft:planks>, <minecraft:planks>, <minecraft:planks>]]);
+

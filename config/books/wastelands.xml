@@ -1,0 +1,36 @@
+<book title="Wastelands">
+	
+
+<chapter id="introduction">
+	<section>
+		<p align="center"></p>
+		<title underline="true">Introduction</title>
+		<p bold="true"></p>
+		<p>As you may have already seen you are in a wasteland by yourself. Your goal is to survive. By now all you have is a sapling, and a block of dirt but, what can you do with it. Well that's what I'm here for, to help you just follow the guide and you should be good to go. Oh wait did I say by yourself? sorry!!, but be aware that you are not alone in this wasteland something tells me there may be some frineds around especially during night time. Be careful and don't trust them. Good luck in your journey.</p>
+
+</section>
+</chapter>
+
+<chapter id="chapter 1">
+	<page id="page1">
+		<title underline="true" >The Begining</title>
+		<p scale="1.0">To begin, you need to get some basic tools and resources. For now the only tools you have access to are bone tools. You will need sticks to make the tools, sticks drop from breaking leaves. You can get bones from breaking wasteland blocks. JEI should tell you the recipes for the tools and everything else. Let's get those tools.
+		</p> 
+</page>
+<page id="pg2">
+	<p bold="true">Required Tools: <br/> <stack item="primal_tech:bone_axe" meta="0" count="1"/> <stack item="primal_tech:bone_pickaxe" meta="0" count="1"/> <br/> 
+
+</p>
+
+<p bold="true">Required Items: <br/> <stack item="primal:bone_knapp" meta="0" count="6"/> <stack item="minecraft:stick" meta="0" count="6"/> </p>
+		
+</page>
+</chapter>
+<page id="pg3">
+
+
+</page>
+
+
+
+</book>
