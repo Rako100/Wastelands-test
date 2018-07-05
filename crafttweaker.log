@@ -5,10 +5,12 @@
 [INITIALIZATION][CLIENT][INFO] [PrimalCore] Adding Crafting Tweaker recipe for Drying Rack
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: vanilla.zs}
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <minecraft:coal>
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <minecraft:coal:1>
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: WasteLandsLootTable.zs}
 [INITIALIZATION][CLIENT][INFO] Adding pool psZombieLoot to table minecraft:entities/zombie
 [INITIALIZATION][CLIENT][INFO] Adding entry minecraft:wheat_seeds to pool psZombieLoot
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 197ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 203ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:flint>
 [POSTINITIALIZATION][CLIENT][INFO] 0 removed
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:flint>

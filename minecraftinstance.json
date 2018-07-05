@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-07-05T01:59:58.530514Z",
+  "lastPlayed": "2018-07-05T19:37:44.02438Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -28,131 +28,11 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 4096,
-  "guid": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+  "guid": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
   "gameTypeID": 432,
-  "installPath": "D:\\Minecraft\\Instances\\Wastelands test\\",
-  "name": "Wastelands test",
+  "installPath": "C:\\Users\\tjfru\\OneDrive\\Documents\\Curse\\Minecraft\\Instances\\Wastelands-test\\",
+  "name": "Wastelands-test",
   "cachedScans": [
-    {
-      "folderName": "LootTweaker-1.12.2-0.0.7.jar",
-      "fingerprint": 802723705,
-      "fileDateHash": 4282449108,
-      "sectionID": 6,
-      "individualFingerprints": [
-        802723705
-      ],
-      "status": 1,
-      "timestamp": "2018-07-04T23:28:03.6723251Z",
-      "lastWriteTimeUtc": "2018-07-04T23:28:03.1731417Z",
-      "queryTimestamp": "2018-07-04T23:28:04.2826927Z",
-      "fileCount": 1,
-      "fileSize": 61486
-    },
-    {
-      "folderName": "Magneticraft_1.12-2.4.0-dev.jar",
-      "fingerprint": 594295627,
-      "fileDateHash": 1391455595,
-      "sectionID": 6,
-      "individualFingerprints": [
-        594295627
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.0749835Z",
-      "lastWriteTimeUtc": "2018-06-24T23:51:02.9339818Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 5501394
-    },
-    {
-      "folderName": "Botania r1.10-354.jar",
-      "fingerprint": 2290170363,
-      "fileDateHash": 2391924565,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2290170363
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:01.8296397Z",
-      "lastWriteTimeUtc": "2018-06-25T00:09:10.051131Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 13599813
-    },
-    {
-      "folderName": "ezwastelands-1.12-1.3.1.jar",
-      "fingerprint": 1127555996,
-      "fileDateHash": 1764471927,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1127555996
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:01.984226Z",
-      "lastWriteTimeUtc": "2018-06-24T23:28:09.4578447Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 789576
-    },
-    {
-      "folderName": "modtweaker-4.0.12.jar",
-      "fingerprint": 2010625495,
-      "fileDateHash": 1679953076,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2010625495
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1088925Z",
-      "lastWriteTimeUtc": "2018-06-25T00:08:41.7149218Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 398780
-    },
-    {
-      "folderName": "CraftTweaker2-1.12-4.1.9.jar",
-      "fingerprint": 3348104068,
-      "fileDateHash": 527251290,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3348104068
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:01.9373512Z",
-      "lastWriteTimeUtc": "2018-06-25T00:08:36.7821154Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 1275699
-    },
-    {
-      "folderName": "questbook-3.1.1-1.12.jar",
-      "fingerprint": 2656715831,
-      "fileDateHash": 1461668025,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2656715831
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1767115Z",
-      "lastWriteTimeUtc": "2018-06-25T01:32:47.6105341Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 20203
-    },
-    {
-      "folderName": "ClayBucket-1.12-1.1.jar",
-      "fingerprint": 3926555419,
-      "fileDateHash": 2365851274,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3926555419
-      ],
-      "status": 1,
-      "timestamp": "2018-07-02T04:02:45.9229833Z",
-      "lastWriteTimeUtc": "2018-07-02T00:36:02.5512695Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 17213
-    },
     {
       "folderName": "BetterQuesting-3.5.259.jar",
       "fingerprint": 3907877550,
@@ -167,221 +47,6 @@
       "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
       "fileCount": 1,
       "fileSize": 1277762
-    },
-    {
-      "folderName": "MouseTweaks-2.8-mc1.12.1.jar",
-      "fingerprint": 439035205,
-      "fileDateHash": 1480149874,
-      "sectionID": 6,
-      "individualFingerprints": [
-        439035205
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1168709Z",
-      "lastWriteTimeUtc": "2018-06-25T00:08:46.948922Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
-      "fileCount": 1,
-      "fileSize": 68793
-    },
-    {
-      "folderName": "wasteland_meteors-1.12-0.2.jar",
-      "fingerprint": 3313778866,
-      "fileDateHash": 977447727,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3313778866
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1936667Z",
-      "lastWriteTimeUtc": "2018-06-24T23:28:14.740257Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 334832
-    },
-    {
-      "folderName": "modelloader-1.0.5.jar",
-      "fingerprint": 215869746,
-      "fileDateHash": 2485170676,
-      "sectionID": 6,
-      "individualFingerprints": [
-        215869746
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1078953Z",
-      "lastWriteTimeUtc": "2018-06-24T23:50:59.3091219Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 147449
-    },
-    {
-      "folderName": "jei_1.12.2-4.10.0.198.jar",
-      "fingerprint": 2909672894,
-      "fileDateHash": 753759351,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2909672894
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.0530419Z",
-      "lastWriteTimeUtc": "2018-06-24T23:41:51.118949Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 571526
-    },
-    {
-      "folderName": "MTLib-3.0.5.jar",
-      "fingerprint": 3707401081,
-      "fileDateHash": 2336456035,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3707401081
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1308336Z",
-      "lastWriteTimeUtc": "2018-06-25T00:08:41.4606007Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 30005
-    },
-    {
-      "folderName": "Drones-0.3.0.jar",
-      "fingerprint": 2679251107,
-      "fileDateHash": 2239689960,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2679251107
-      ],
-      "status": 1,
-      "timestamp": "2018-07-02T04:02:45.9229833Z",
-      "lastWriteTimeUtc": "2018-07-02T01:57:34.855053Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 342169
-    },
-    {
-      "folderName": "StandardExpansion-3.4.143.jar",
-      "fingerprint": 1748851207,
-      "fileDateHash": 2347890175,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1748851207
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1777087Z",
-      "lastWriteTimeUtc": "2018-06-25T01:32:56.4515792Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 394666
-    },
-    {
-      "folderName": "Guidebook-1.12.2-2.6.5.jar",
-      "fingerprint": 4050478481,
-      "fileDateHash": 799076558,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4050478481
-      ],
-      "status": 1,
-      "timestamp": "2018-07-05T00:50:59.7067457Z",
-      "lastWriteTimeUtc": "2018-07-05T00:50:50.0974486Z",
-      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
-      "fileCount": 1,
-      "fileSize": 216272
-    },
-    {
-      "folderName": "PrimalCore-1.12.2-0.6.59.jar",
-      "fingerprint": 2593024648,
-      "fileDateHash": 2423423199,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2593024648
-      ],
-      "status": 1,
-      "timestamp": "2018-07-02T04:02:45.9289671Z",
-      "lastWriteTimeUtc": "2018-07-01T19:53:43.315059Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 4999864
-    },
-    {
-      "folderName": "theoneprobe-1.12-1.4.23.jar",
-      "fingerprint": 2818910464,
-      "fileDateHash": 352882323,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2818910464
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1846897Z",
-      "lastWriteTimeUtc": "2018-06-25T00:16:06.7024251Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 301033
-    },
-    {
-      "folderName": "New Modded World 6",
-      "fingerprint": 364882655,
-      "fileDateHash": 1988457457,
-      "sectionID": 17,
-      "individualFingerprints": [
-        301620541,
-        379521350,
-        392098620,
-        436540347,
-        489458212,
-        489458212,
-        493877642,
-        758054953,
-        758054953,
-        758054953,
-        776960864,
-        989848178,
-        1254400901,
-        1369942744,
-        1750796646,
-        2051039522,
-        2087386609,
-        2293670810,
-        2615317546,
-        2864539105,
-        2900261546,
-        3028428630,
-        3132291427,
-        3343374978,
-        3466388506,
-        3638818350,
-        3687400271,
-        3728572057,
-        3855666334,
-        3948813058,
-        4213863462,
-        4213863462,
-        4213863462,
-        4213863462,
-        4255116830,
-        4277107657
-      ],
-      "status": 1,
-      "timestamp": "2018-07-05T00:50:59.7087408Z",
-      "lastWriteTimeUtc": "2018-07-05T00:44:45.1654949Z",
-      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
-      "fileCount": 15,
-      "fileSize": 0
-    },
-    {
-      "folderName": "pickletweaks-1.12-2.0.16.jar",
-      "fingerprint": 1673400720,
-      "fileDateHash": 1716554838,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1673400720
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1318311Z",
-      "lastWriteTimeUtc": "2018-06-25T01:32:20.5574095Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
-      "fileCount": 1,
-      "fileSize": 213043
     },
     {
       "folderName": "journeymap-1.12.2-5.5.2.jar",
@@ -399,34 +64,64 @@
       "fileSize": 1822850
     },
     {
-      "folderName": "InventoryTweaks-1.63.jar",
-      "fingerprint": 4009982705,
-      "fileDateHash": 1300541637,
+      "folderName": "pickletweaks-1.12-2.0.16.jar",
+      "fingerprint": 1673400720,
+      "fileDateHash": 1716554838,
       "sectionID": 6,
       "individualFingerprints": [
-        4009982705
+        1673400720
       ],
       "status": 1,
-      "timestamp": "2018-07-05T00:50:59.7077431Z",
-      "lastWriteTimeUtc": "2018-07-05T00:44:42.9149649Z",
-      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
-      "fileCount": 1,
-      "fileSize": 263258
-    },
-    {
-      "folderName": "Forgelin-1.7.4.jar",
-      "fingerprint": 749853300,
-      "fileDateHash": 3813981946,
-      "sectionID": 6,
-      "individualFingerprints": [
-        749853300
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:02.0121512Z",
-      "lastWriteTimeUtc": "2018-06-24T23:51:00.0775738Z",
+      "timestamp": "2018-06-30T03:18:02.1318311Z",
+      "lastWriteTimeUtc": "2018-06-25T01:32:20.5574095Z",
       "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
       "fileCount": 1,
-      "fileSize": 4595089
+      "fileSize": 213043
+    },
+    {
+      "folderName": "modtweaker-4.0.12.jar",
+      "fingerprint": 2010625495,
+      "fileDateHash": 1679953076,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2010625495
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1088925Z",
+      "lastWriteTimeUtc": "2018-06-25T00:08:41.7149218Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
+      "fileCount": 1,
+      "fileSize": 398780
+    },
+    {
+      "folderName": "FastLeafDecay-v14.jar",
+      "fingerprint": 1940914729,
+      "fileDateHash": 1066892870,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1940914729
+      ],
+      "status": 1,
+      "timestamp": "2018-07-04T23:28:03.6723251Z",
+      "lastWriteTimeUtc": "2018-07-04T23:28:03.1711471Z",
+      "queryTimestamp": "2018-07-04T23:28:04.2836902Z",
+      "fileCount": 1,
+      "fileSize": 5200
+    },
+    {
+      "folderName": "PrimalTech-0.3.3.jar",
+      "fingerprint": 1417559117,
+      "fileDateHash": 2059487830,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1417559117
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1657403Z",
+      "lastWriteTimeUtc": "2018-06-24T23:58:37.6736688Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
+      "fileCount": 1,
+      "fileSize": 464312
     },
     {
       "folderName": "DefaultWorldGenerator-port-1.12-2.3.jar",
@@ -444,19 +139,49 @@
       "fileSize": 196038
     },
     {
-      "folderName": "jeiintegration_1.12.2-1.5.1.36.jar",
-      "fingerprint": 445926529,
-      "fileDateHash": 1176251714,
+      "folderName": "BlockDropsTweaker-1.12.2-2.4.jar",
+      "fingerprint": 3524923869,
+      "fileDateHash": 3864749334,
       "sectionID": 6,
       "individualFingerprints": [
-        445926529
+        3524923869
       ],
       "status": 1,
-      "timestamp": "2018-06-30T03:18:02.0390792Z",
-      "lastWriteTimeUtc": "2018-06-24T23:41:54.3917609Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "timestamp": "2018-06-30T03:18:01.8286422Z",
+      "lastWriteTimeUtc": "2018-06-25T01:21:53.4823394Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
       "fileCount": 1,
-      "fileSize": 54046
+      "fileSize": 211104
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.9.jar",
+      "fingerprint": 3348104068,
+      "fileDateHash": 527251290,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3348104068
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:01.9373512Z",
+      "lastWriteTimeUtc": "2018-06-25T00:08:36.7821154Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
+      "fileCount": 1,
+      "fileSize": 1275699
+    },
+    {
+      "folderName": "LootTweaker-1.12.2-0.0.7.jar",
+      "fingerprint": 802723705,
+      "fileDateHash": 4282449108,
+      "sectionID": 6,
+      "individualFingerprints": [
+        802723705
+      ],
+      "status": 1,
+      "timestamp": "2018-07-04T23:28:03.6723251Z",
+      "lastWriteTimeUtc": "2018-07-04T23:28:03.1731417Z",
+      "queryTimestamp": "2018-07-04T23:28:04.2826927Z",
+      "fileCount": 1,
+      "fileSize": 61486
     },
     {
       "folderName": "blockdrops-1.12.2-1.4.0.jar",
@@ -489,64 +214,34 @@
       "fileSize": 23171
     },
     {
-      "folderName": "ForgeCraft-1.4.06.jar",
-      "fingerprint": 3617399469,
-      "fileDateHash": 7560345,
+      "folderName": "Forgelin-1.7.4.jar",
+      "fingerprint": 749853300,
+      "fileDateHash": 3813981946,
       "sectionID": 6,
       "individualFingerprints": [
-        3617399469
+        749853300
       ],
       "status": 1,
-      "timestamp": "2018-06-30T03:18:02.0011805Z",
-      "lastWriteTimeUtc": "2018-06-25T00:07:13.7063149Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
+      "timestamp": "2018-06-30T03:18:02.0121512Z",
+      "lastWriteTimeUtc": "2018-06-24T23:51:00.0775738Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
       "fileCount": 1,
-      "fileSize": 1005279
+      "fileSize": 4595089
     },
     {
-      "folderName": "BlockDropsTweaker-1.12.2-2.4.jar",
-      "fingerprint": 3524923869,
-      "fileDateHash": 3864749334,
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 1300541637,
       "sectionID": 6,
       "individualFingerprints": [
-        3524923869
+        4009982705
       ],
       "status": 1,
-      "timestamp": "2018-06-30T03:18:01.8286422Z",
-      "lastWriteTimeUtc": "2018-06-25T01:21:53.4823394Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
+      "timestamp": "2018-07-05T00:50:59.7077431Z",
+      "lastWriteTimeUtc": "2018-07-05T00:44:42.9149649Z",
+      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
       "fileCount": 1,
-      "fileSize": 211104
-    },
-    {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 3260833102,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4247051032
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:01.8136826Z",
-      "lastWriteTimeUtc": "2018-06-25T00:09:06.643246Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
-      "fileCount": 1,
-      "fileSize": 108450
-    },
-    {
-      "folderName": "cucumber-1.12-1.1.0.jar",
-      "fingerprint": 3483704732,
-      "fileDateHash": 3342384252,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3483704732
-      ],
-      "status": 1,
-      "timestamp": "2018-06-30T03:18:01.9543059Z",
-      "lastWriteTimeUtc": "2018-06-25T01:32:20.2806364Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
-      "fileCount": 1,
-      "fileSize": 103120
+      "fileSize": 263258
     },
     {
       "folderName": "FastWorkbench-1.12.2-1.5.0.jar",
@@ -564,38 +259,293 @@
       "fileSize": 24450
     },
     {
-      "folderName": "PrimalTech-0.3.3.jar",
-      "fingerprint": 1417559117,
-      "fileDateHash": 2059487830,
+      "folderName": "ClayBucket-1.12-1.1.jar",
+      "fingerprint": 3926555419,
+      "fileDateHash": 2365851274,
       "sectionID": 6,
       "individualFingerprints": [
-        1417559117
+        3926555419
       ],
       "status": 1,
-      "timestamp": "2018-06-30T03:18:02.1657403Z",
-      "lastWriteTimeUtc": "2018-06-24T23:58:37.6736688Z",
-      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
+      "timestamp": "2018-07-02T04:02:45.9229833Z",
+      "lastWriteTimeUtc": "2018-07-02T00:36:02.5512695Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
       "fileCount": 1,
-      "fileSize": 464312
+      "fileSize": 17213
     },
     {
-      "folderName": "FastLeafDecay-v14.jar",
-      "fingerprint": 1940914729,
-      "fileDateHash": 1066892870,
+      "folderName": "PrimalCore-1.12.2-0.6.59.jar",
+      "fingerprint": 2593024648,
+      "fileDateHash": 2423423199,
       "sectionID": 6,
       "individualFingerprints": [
-        1940914729
+        2593024648
       ],
       "status": 1,
-      "timestamp": "2018-07-04T23:28:03.6723251Z",
-      "lastWriteTimeUtc": "2018-07-04T23:28:03.1711471Z",
-      "queryTimestamp": "2018-07-04T23:28:04.2836902Z",
+      "timestamp": "2018-07-02T04:02:45.9289671Z",
+      "lastWriteTimeUtc": "2018-07-01T19:53:43.315059Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
       "fileCount": 1,
-      "fileSize": 5200
+      "fileSize": 4999864
+    },
+    {
+      "folderName": "ezwastelands-1.12-1.3.1.jar",
+      "fingerprint": 1127555996,
+      "fileDateHash": 1764471927,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1127555996
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:01.984226Z",
+      "lastWriteTimeUtc": "2018-06-24T23:28:09.4578447Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
+      "fileCount": 1,
+      "fileSize": 789576
+    },
+    {
+      "folderName": "Guidebook-1.12.2-2.6.5.jar",
+      "fingerprint": 4050478481,
+      "fileDateHash": 799076558,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4050478481
+      ],
+      "status": 1,
+      "timestamp": "2018-07-05T00:50:59.7067457Z",
+      "lastWriteTimeUtc": "2018-07-05T00:50:50.0974486Z",
+      "queryTimestamp": "2018-07-05T00:50:59.9650553Z",
+      "fileCount": 1,
+      "fileSize": 216272
+    },
+    {
+      "folderName": "Magneticraft_1.12-2.4.0-dev.jar",
+      "fingerprint": 594295627,
+      "fileDateHash": 1391455595,
+      "sectionID": 6,
+      "individualFingerprints": [
+        594295627
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.0749835Z",
+      "lastWriteTimeUtc": "2018-06-24T23:51:02.9339818Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
+      "fileCount": 1,
+      "fileSize": 5501394
+    },
+    {
+      "folderName": "modelloader-1.0.5.jar",
+      "fingerprint": 215869746,
+      "fileDateHash": 2485170676,
+      "sectionID": 6,
+      "individualFingerprints": [
+        215869746
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1078953Z",
+      "lastWriteTimeUtc": "2018-06-24T23:50:59.3091219Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 147449
+    },
+    {
+      "folderName": "cucumber-1.12-1.1.0.jar",
+      "fingerprint": 3483704732,
+      "fileDateHash": 3342384252,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3483704732
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:01.9543059Z",
+      "lastWriteTimeUtc": "2018-06-25T01:32:20.2806364Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
+      "fileCount": 1,
+      "fileSize": 103120
+    },
+    {
+      "folderName": "StandardExpansion-3.4.143.jar",
+      "fingerprint": 1748851207,
+      "fileDateHash": 2347890175,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1748851207
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1777087Z",
+      "lastWriteTimeUtc": "2018-06-25T01:32:56.4515792Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 394666
+    },
+    {
+      "folderName": "MTLib-3.0.5.jar",
+      "fingerprint": 3707401081,
+      "fileDateHash": 2336456035,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3707401081
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1308336Z",
+      "lastWriteTimeUtc": "2018-06-25T00:08:41.4606007Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 30005
+    },
+    {
+      "folderName": "theoneprobe-1.12-1.4.23.jar",
+      "fingerprint": 2818910464,
+      "fileDateHash": 352882323,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2818910464
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1846897Z",
+      "lastWriteTimeUtc": "2018-06-25T00:16:06.7024251Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 301033
+    },
+    {
+      "folderName": "Drones-0.3.0.jar",
+      "fingerprint": 2679251107,
+      "fileDateHash": 2239689960,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2679251107
+      ],
+      "status": 1,
+      "timestamp": "2018-07-02T04:02:45.9229833Z",
+      "lastWriteTimeUtc": "2018-07-02T01:57:34.855053Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 342169
+    },
+    {
+      "folderName": "ForgeCraft-1.4.06.jar",
+      "fingerprint": 3617399469,
+      "fileDateHash": 7560345,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3617399469
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.0011805Z",
+      "lastWriteTimeUtc": "2018-06-25T00:07:13.7063149Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
+      "fileCount": 1,
+      "fileSize": 1005279
+    },
+    {
+      "folderName": "Baubles-1.12-1.5.2.jar",
+      "fingerprint": 4247051032,
+      "fileDateHash": 3260833102,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4247051032
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:01.8136826Z",
+      "lastWriteTimeUtc": "2018-06-25T00:09:06.643246Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9840041Z",
+      "fileCount": 1,
+      "fileSize": 108450
+    },
+    {
+      "folderName": "wasteland_meteors-1.12-0.2.jar",
+      "fingerprint": 3313778866,
+      "fileDateHash": 977447727,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3313778866
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1936667Z",
+      "lastWriteTimeUtc": "2018-06-24T23:28:14.740257Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 334832
+    },
+    {
+      "folderName": "MouseTweaks-2.8-mc1.12.1.jar",
+      "fingerprint": 439035205,
+      "fileDateHash": 1480149874,
+      "sectionID": 6,
+      "individualFingerprints": [
+        439035205
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1168709Z",
+      "lastWriteTimeUtc": "2018-06-25T00:08:46.948922Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
+      "fileCount": 1,
+      "fileSize": 68793
+    },
+    {
+      "folderName": "jeiintegration_1.12.2-1.5.1.36.jar",
+      "fingerprint": 445926529,
+      "fileDateHash": 1176251714,
+      "sectionID": 6,
+      "individualFingerprints": [
+        445926529
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.0390792Z",
+      "lastWriteTimeUtc": "2018-06-24T23:41:54.3917609Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 54046
+    },
+    {
+      "folderName": "Botania r1.10-354.jar",
+      "fingerprint": 2290170363,
+      "fileDateHash": 2391924565,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2290170363
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:01.8296397Z",
+      "lastWriteTimeUtc": "2018-06-25T00:09:10.051131Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
+      "fileCount": 1,
+      "fileSize": 13599813
+    },
+    {
+      "folderName": "questbook-3.1.1-1.12.jar",
+      "fingerprint": 2656715831,
+      "fileDateHash": 1461668025,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2656715831
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.1767115Z",
+      "lastWriteTimeUtc": "2018-06-25T01:32:47.6105341Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9820098Z",
+      "fileCount": 1,
+      "fileSize": 20203
+    },
+    {
+      "folderName": "jei_1.12.2-4.10.0.198.jar",
+      "fingerprint": 2909672894,
+      "fileDateHash": 753759351,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2909672894
+      ],
+      "status": 1,
+      "timestamp": "2018-06-30T03:18:02.0530419Z",
+      "lastWriteTimeUtc": "2018-06-24T23:41:51.118949Z",
+      "queryTimestamp": "2018-07-04T20:46:22.9830067Z",
+      "fileCount": 1,
+      "fileSize": 571526
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2018-07-05T00:51:00.4846659Z",
+  "lastPreviousMatchUpdate": "2018-07-05T18:52:01.5682835Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -616,11 +566,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2018-06-24T23:16:13.2950727Z",
+  "installDate": "2018-07-05T20:27:00.2068391Z",
   "installedAddons": [
     {
       "addonID": 237662,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2515894,
         "fileName": "ezwastelands-1.12-1.3.1.jar",
@@ -690,7 +640,7 @@
     },
     {
       "addonID": 256895,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2455188,
         "fileName": "wasteland_meteors-1.12-0.2.jar",
@@ -751,7 +701,7 @@
     },
     {
       "addonID": 241140,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2499252,
         "fileName": "DefaultWorldGenerator-port-1.12-2.3.jar",
@@ -812,7 +762,7 @@
     },
     {
       "addonID": 32274,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2498312,
         "fileName": "journeymap-1.12.2-5.5.2",
@@ -892,7 +842,7 @@
     },
     {
       "addonID": 238222,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2571131,
         "fileName": "jei_1.12.2-4.10.0.198.jar",
@@ -947,7 +897,7 @@
     },
     {
       "addonID": 265917,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2491927,
         "fileName": "jeiintegration_1.12.2-1.5.1.36",
@@ -1007,7 +957,7 @@
     },
     {
       "addonID": 244181,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2509046,
         "fileName": "blockdrops-1.12.2-1.4.0.jar",
@@ -1061,7 +1011,7 @@
     },
     {
       "addonID": 277663,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2479208,
         "fileName": "modelloader-1.0.5.jar",
@@ -1115,7 +1065,7 @@
     },
     {
       "addonID": 248453,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2573311,
         "fileName": "Forgelin-1.7.4.jar",
@@ -1182,7 +1132,7 @@
     },
     {
       "addonID": 224808,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2571506,
         "fileName": "Magneticraft 2.4.0 (1.12.2)",
@@ -1254,7 +1204,7 @@
     },
     {
       "addonID": 290612,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2567687,
         "fileName": "PrimalTech-0.3.3.jar",
@@ -1305,7 +1255,7 @@
     },
     {
       "addonID": 226013,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2535183,
         "fileName": "ForgeCraft-1.4.06",
@@ -1362,7 +1312,7 @@
     },
     {
       "addonID": 239197,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2576160,
         "fileName": "CraftTweaker2-1.12-4.1.9",
@@ -1423,7 +1373,7 @@
     },
     {
       "addonID": 253211,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2567171,
         "fileName": "MTLib-3.0.5",
@@ -1477,7 +1427,7 @@
     },
     {
       "addonID": 220954,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2558895,
         "fileName": "modtweaker-4.0.12",
@@ -1535,7 +1485,7 @@
     },
     {
       "addonID": 60089,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2462627,
         "fileName": "[1.12.1] Mouse Tweaks 2.8",
@@ -1591,7 +1541,7 @@
     },
     {
       "addonID": 227083,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2518667,
         "fileName": "Baubles-1.12-1.5.2.jar",
@@ -1654,7 +1604,7 @@
     },
     {
       "addonID": 225643,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2554929,
         "fileName": "Botania r1.10-354.jar",
@@ -1722,11 +1672,11 @@
     },
     {
       "addonID": 253735,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2514705,
         "fileName": "CustomStartingGear-1.12-1.2.0.9-universal.jar",
-        "fileNameOnDisk": "CustomStartingGear-1.12-1.2.0.9-universal.jar",
+        "fileNameOnDisk": "CustomStartingGear-1.12-1.2.0.9-universal.jar.disabled",
         "fileDate": "2017-12-29T11:55:06.783",
         "releaseType": 1,
         "fileStatus": 1,
@@ -1767,7 +1717,7 @@
     },
     {
       "addonID": 245211,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2569399,
         "fileName": "TheOneProbe - 1.12-1.4.23",
@@ -1835,7 +1785,7 @@
     },
     {
       "addonID": 284071,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2524304,
         "fileName": "BlockDropsTweaker-1.12.2-2.4.jar",
@@ -1890,7 +1840,7 @@
     },
     {
       "addonID": 272335,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2546515,
         "fileName": "cucumber-1.12-1.1.0.jar",
@@ -1947,7 +1897,7 @@
     },
     {
       "addonID": 238761,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2556526,
         "fileName": "pickletweaks-1.12-2.0.16.jar",
@@ -2005,7 +1955,7 @@
     },
     {
       "addonID": 238856,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2569946,
         "fileName": "BetterQuesting-3.5.259.jar",
@@ -2060,7 +2010,7 @@
     },
     {
       "addonID": 242106,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2539562,
         "fileName": "Better Questing - Quest Book 3.1.1-1.12",
@@ -2120,7 +2070,7 @@
     },
     {
       "addonID": 238857,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2566315,
         "fileName": "StandardExpansion-3.4.143.jar",
@@ -2175,7 +2125,7 @@
     },
     {
       "addonID": 247907,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2577569,
         "fileName": "PrimalCore-1.12.2-0.6.59.jar",
@@ -2264,7 +2214,7 @@
     },
     {
       "addonID": 242568,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2463480,
         "fileName": "ClayBucket-1.12-1.1.jar",
@@ -2321,7 +2271,7 @@
     },
     {
       "addonID": 263438,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2488533,
         "fileName": "Drones-0.3.0",
@@ -2374,7 +2324,7 @@
     },
     {
       "addonID": 255257,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2533126,
         "fileName": "LootTweaker-1.12.2-0.0.7.jar",
@@ -2434,7 +2384,7 @@
     },
     {
       "addonID": 288885,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2568496,
         "fileName": "FastWorkbench-1.12.2-1.5.0.jar",
@@ -2469,7 +2419,7 @@
       "dateInstalled": "2018-07-04T23:28:05.0686235Z",
       "dateUpdated": "2017-07-04T23:28:05.0686235Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2481,7 +2431,7 @@
     },
     {
       "addonID": 230976,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2463272,
         "fileName": "FastLeafDecay-v14.jar",
@@ -2533,7 +2483,7 @@
     },
     {
       "addonID": 223094,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2482481,
         "fileName": "Inventory Tweaks 1.63",
@@ -2600,7 +2550,7 @@
     },
     {
       "addonID": 253874,
-      "gameInstanceID": "b128af83-ca2d-42b5-b1dc-b7e1187ff37c",
+      "gameInstanceID": "8b1f8443-c3d0-4115-8c59-109d8de9e83c",
       "installedFile": {
         "id": 2575372,
         "fileName": "Guidebook-1.12.2-2.6.5.jar",

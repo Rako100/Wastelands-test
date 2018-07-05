@@ -35,7 +35,6 @@
   "crafttweaker": "4.1.9",
   "bq_standard": "3.4.143",
   "forge": "14.23.4.2712",
-  "customstartinggear": "1.2.0",
   "fastleafdecay": "v14",
   "modelloader": "1.0.5",
   "magneticraft": "2.4.0"
