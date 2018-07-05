@@ -61,3 +61,6 @@ recipes.addShaped(<minecraft:furnace>,
     [[<minecraft:stone:0>,<minecraft:stone:0>,<minecraft:stone:0>],
     [<minecraft:stone:0>, <primal_tech:charcoal_block>,<minecraft:stone:0>],
     [<minecraft:stone:0>,<minecraft:stone:0>,<minecraft:stone:0>]]);
+
+//Disabling vanilla coal as fuel source in furnace
+furnace.setFuel(<minecraft:coal:*>, 0);
