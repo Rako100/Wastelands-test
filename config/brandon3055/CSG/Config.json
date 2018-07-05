@@ -1,8 +1,6 @@
 {
   "inventory": {
     "0:1": "minecraft:dirt",
-    "0:0": "minecraft:wooden_pickaxe,1,0,{pickletweaks:{BlocksBroken:1}}",
-    "0:3": "minecraft:torch",
-    "0:2": "minecraft:sapling"
+    "0:0": "minecraft:sapling"
   }
 }
