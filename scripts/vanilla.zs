@@ -54,3 +54,10 @@ mods.jei.JEI.hide(<minecraft:diamond_hoe>);
 mods.jei.JEI.hide(<minecraft:diamond_axe>);
 mods.jei.JEI.hide(<minecraft:diamond_pickaxe>);
 mods.jei.JEI.hide(<minecraft:diamond_shovel>);
+
+//Adjust furnace recipe
+recipes.remove(<minecraft:furnace>);
+recipes.addShaped(<minecraft:furnace>,
+    [[<minecraft:stone:0>,<minecraft:stone:0>,<minecraft:stone:0>],
+    [<minecraft:stone:0>, <primal_tech:charcoal_block>,<minecraft:stone:0>],
+    [<minecraft:stone:0>,<minecraft:stone:0>,<minecraft:stone:0>]]);
